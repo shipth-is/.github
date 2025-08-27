@@ -8,4 +8,5 @@ ShipThis is a command-line tool to build and upload Godot games to the App Store
 
 ## Repos
 
-- [shipth-is/cli](https://github.com/shipth-is/cli): CLI to build and upload Godot games to the App Store and Google Play
+- [shipth-is/cli](https://github.com/shipth-is/cli): CLI to build and publish Godot games to the App Store and Google Play
+- [shipth-is/action](https://github.com/shipth-is/action): A GitHub action for running ShipThis
