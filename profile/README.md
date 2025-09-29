@@ -10,3 +10,4 @@ ShipThis is a command-line tool to build and upload Godot games to the App Store
 
 - [shipth-is/cli](https://github.com/shipth-is/cli): CLI to build and publish Godot games to the App Store and Google Play
 - [shipth-is/action](https://github.com/shipth-is/action): A GitHub action for running ShipThis
+- [shipth-is/godot-android-sdk-upgrade](https://github.com/shipth-is/godot-android-sdk-upgrade): Android SDK 35 Patched Releases of Godot 4.x
